@@ -3,8 +3,8 @@
 
 #### Contacts:
 - email: meliksetyannk@gmail.com
-- telegram: t.me/melixetyan
-- linkedin: linkedin.com/in/melixetyan
+- telegram: [@melixetyan](https://t.me/melixetyan)
+- linkedin: [melixetyan](https://linkedin.com/in/melixetyan)
 
 <!--
 **nkhaldi/nkhaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
