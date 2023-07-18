@@ -6,7 +6,7 @@
 ### Backend developer
 
 
-## My tools:
+## Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
