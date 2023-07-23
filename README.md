@@ -10,8 +10,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" **alt="Perl" width="50" height="50"/>
+  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/django.svg" title="Django" **alt="Django" width="50" height="50"/>
+  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/perl.png" title="Perl" **alt="Perl" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="50" height="50"/>
