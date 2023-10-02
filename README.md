@@ -34,7 +34,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="50" height="50"/>
   <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/chatgpt.png" title="ChatGPT" **alt="ChatGPT" width="50" height="50"/>
 </div>
