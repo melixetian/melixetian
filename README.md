@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="50" height="50"/>
 </div>
 
 <div>
@@ -30,6 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="AirFlow" **alt="AirFlow" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" **alt="NumPy" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" **alt="NumPy" width="50" height="50"/>
 </div>
 
 <div>
