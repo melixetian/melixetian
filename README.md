@@ -1,20 +1,22 @@
 <!--
-**nkhaldi/nkhaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**melixetian/melixetian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Nrek Meliksetyan
+## Narek Meliksetian
+
 ### Backend developer
 
+I am a backend developer with over 6 years of experience, skilled at quickly navigating complex tasks and not afraid of making and learning from mistakes. My strength is staying resilient in chaos and finding practical solutions on the go. I thrive on hands-on problem-solving and continuously improving processes, never giving up until I achieve success.
 
-## Tools:
+## Skills and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
-  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/django.svg" title="Django" **alt="Django" width="50" height="50"/>
+  <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/django.svg" title="Django" **alt="Django" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fast API" **alt="Fast API" width="50" height="50"/>
-  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/aiohttp.png" title="aiohttp" **alt="aiohttp" width="50" height="50"/>
-  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/perl.png" title="Perl" **alt="Perl" width="50" height="50"/>
-  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/c-lang.png" title="C" **alt="C" width="50" height="50"/>
+  <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/aiohttp.png" title="aiohttp" **alt="aiohttp" width="50" height="50"/>
+  <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/perl.png" title="Perl" **alt="Perl" width="50" height="50"/>
+  <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/c-lang.png" title="C" **alt="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="50" height="50"/>
 </div>
 
@@ -27,7 +29,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/rest-api.webp" title="RestAPI" **alt="RestAPI" width="50" height="50"/>
+  <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/rest-api.webp" title="RestAPI" **alt="RestAPI" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="AirFlow" **alt="AirFlow" width="50" height="50"/>
@@ -46,7 +48,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="50" height="50"/>
-  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/chatgpt.png" title="ChatGPT" **alt="ChatGPT" width="50" height="50"/>
+  <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/chatgpt.png" title="ChatGPT" **alt="ChatGPT" width="50" height="50"/>
 </div>
 
 
@@ -63,3 +65,11 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+## Econet
+
+Econet is my research project dedicated to the problems of digital garbage, working with data, and information system infrastructure.
+
+<a href="https://t.me/econets">
+    <img src="https://github.com/melixetian/melixetian/blob/main/custom_logos/econet.jpg" title="Econet" **alt="Econet" width="200" height="200"/>
+</a>
