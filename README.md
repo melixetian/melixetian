@@ -12,10 +12,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/django.svg" title="Django" **alt="Django" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fast API" **alt="Fast API" width="50" height="50"/>
+  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/aiohttp.png" title="aiohttp" **alt="aiohttp" width="50" height="50"/>
   <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/perl.png" title="Perl" **alt="Perl" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="50" height="50"/>
+  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/c-lang.png" title="C" **alt="C" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="50" height="50"/>
 </div>
 
 <div>
@@ -27,8 +27,9 @@
 </div>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="50" height="50"/>
+  <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/rest-api.webp" title="RestAPI" **alt="RestAPI" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="AirFlow" **alt="AirFlow" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="50" height="50"/>
